@@ -2,7 +2,7 @@
 
 ## Description
 A Crypto Tracker app that can retrieve the current prices of a number of crypto coins in a FIAT of a users choosing.
-The tracker uses the free API provided by "https://nomics.com".
+The tracker uses the free API provided by [Crypto Market Cap & Pricing Data Provided By Nomics](https://nomics.com "Nomics Homepage").
 
 ## Additions
 It is very simple to add more currencies to the UI, just by adding items to the cryptoList the coins will be added to the ListView.
